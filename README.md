@@ -1,3 +1,4 @@
 # russia-losses
 
-![alt text]([image_url!](https://github.com/ItsMeIns/russia-losses/assets/106601710/44670b02-5267-4bbb-9fca-610f996b2ed4))
+
+![Uploading Simulator Screenshot - iPhone 15 Pro - 2024-07-01 at 18.30.10.png…]()
